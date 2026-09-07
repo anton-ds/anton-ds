@@ -42,4 +42,4 @@ Most of my production work lives in private repositories.
 
 ## Contact
 
-- https://d-it.ru/en
+- [https://d-it.ru/en](https://d-it.ru/en/contact)
