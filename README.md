@@ -14,17 +14,31 @@ Looking for senior individual-contributor backend roles. Not looking for a peopl
 
 ## Stack
 
-**Languages** — Go, Java / Spring Boot · Python (tooling, automation) · Rust, C (internal tools)
-
-**Infrastructure** — Kubernetes (Operator SDK, CRDs, client-go), Docker, AWS, Linux, Nginx, Jenkins, GitHub Actions
-
-**Data & messaging** — Apache Kafka, PostgreSQL, ClickHouse, Redis, Elasticsearch, Apache Ignite
-
-**Observability** — Prometheus, Grafana, OpenTelemetry
-
+**Languages** — Go, Java / Spring Boot · Python (tooling, automation) · Rust, C (internal tools)  
+**Infrastructure** — Kubernetes (Operator SDK, CRDs, client-go), Docker, AWS, Linux, Nginx, Jenkins, GitHub Actions  
+**Data & messaging** — Apache Kafka, PostgreSQL, ClickHouse, Redis, Elasticsearch, Apache Ignite  
+**Observability** — Prometheus, Grafana, OpenTelemetry  
 **Practices** — Microservices, event-driven design, CQRS, DDD, REST and gRPC / Protobuf APIs, high availability & disaster recovery, on-call ownership
 
-## Things I've built
+## Side projects
+
+Both are live, self-hosted and built end to end — backend, deployment and everything in between.
+
+### [Visual Algorithm Solver](https://algos.d-it.ru/)
+
+Practise algorithm problems by assembling logic out of blocks instead of writing code. Ten primitives cover the shape of most interview problems; the diagram lays itself out top to bottom, and branches merge back into the flow automatically.
+
+Paste a raw LeetCode page — badges, company tags, discussion counts and all — and it gets parsed into a structured problem with the constraints that actually matter. Press check, and the diagram is read as logic: what holds, which block breaks, and one hint for what to improve next.
+
+Progress is kept anonymously in the browser from the first click; signing in with GitHub syncs it across devices and carries the anonymous work over.
+
+### [CraftyWords](https://craftywords.app/) 
+
+A language-learning app built around exploring the world rather than drilling lists. Point the camera at something and it names the objects in the picture as new vocabulary. Beyond that: role-play dialogues with your own scenario and written corrections, a two-player word-guessing mode, counting practice and themed vocabulary sets.
+
+Interface available in six languages.
+
+## Things I've built at work
 
 - A custom Kubernetes predictive auto-scaling controller (Go, Operator SDK) that reads leading metrics to pre-warm heavy JVM services ahead of traffic spikes, eliminating cold-start failures during peak campaigns.
 - A greenfield suite of distributed Go and Java microservices replacing a legacy monolith, with Kafka event-driven communication and strict consistency guarantees across service boundaries.
@@ -34,5 +48,4 @@ Most of my production work lives in private repositories.
 
 ## Contact
 
-- **Email** — antonds@gmail.com
-- **LinkedIn** — https://d-it.ru/en/contact
+- https://d-it.ru/en
