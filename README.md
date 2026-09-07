@@ -28,15 +28,9 @@ Both are live, self-hosted and built end to end — backend, deployment and ever
 
 Practise algorithm problems by assembling logic out of blocks instead of writing code. Ten primitives cover the shape of most interview problems; the diagram lays itself out top to bottom, and branches merge back into the flow automatically.
 
-Paste a raw LeetCode page — badges, company tags, discussion counts and all — and it gets parsed into a structured problem with the constraints that actually matter. Press check, and the diagram is read as logic: what holds, which block breaks, and one hint for what to improve next.
-
-Progress is kept anonymously in the browser from the first click; signing in with GitHub syncs it across devices and carries the anonymous work over.
-
 ### [CraftyWords](https://craftywords.app/) 
 
 A language-learning app built around exploring the world rather than drilling lists. Point the camera at something and it names the objects in the picture as new vocabulary. Beyond that: role-play dialogues with your own scenario and written corrections, a two-player word-guessing mode, counting practice and themed vocabulary sets.
-
-Interface available in six languages.
 
 ## Things I've built at work
 
