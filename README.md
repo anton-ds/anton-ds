@@ -1,16 +1,34 @@
-## Hi there 👋
+# Anton Dolganin
 
-<!--
-**anton-ds/anton-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Backend Engineer — Go & Java** · Distributed systems, cloud-native
 
-Here are some ideas to get you started:
+15+ years in production backend development, the last five on Go with Java/Spring Boot alongside it. I build high-load distributed systems: event-driven architectures on Kafka, gRPC services, and stateful workloads on Kubernetes. Currently own core services of a loyalty platform serving 10M+ active users at thousands of TPS, running at 99.99% availability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hands-on by choice — I write production code daily and own services end to end: data model, API design, rollout, on-call.
+
+## Open to work
+
+Remote-first, based in Spain (CET). EU work authorization, no sponsorship required — employment via a Spanish entity or EOR, or B2B contract.
+
+Looking for senior individual-contributor backend roles. Not looking for a people-management track.
+
+## Stack
+
+**Languages** — Go, Java / Spring Boot · Python (tooling, automation) · Rust, C (internal tools)
+**Infrastructure** — Kubernetes (Operator SDK, CRDs, client-go), Docker, AWS, Linux, Nginx, Jenkins, GitHub Actions
+**Data & messaging** — Apache Kafka, PostgreSQL, ClickHouse, Redis, Elasticsearch, Apache Ignite
+**Observability** — Prometheus, Grafana, OpenTelemetry
+**Practices** — Microservices, event-driven design, CQRS, DDD, REST and gRPC / Protobuf APIs, high availability & disaster recovery, on-call ownership
+
+## Things I've built
+
+- A custom Kubernetes predictive auto-scaling controller (Go, Operator SDK) that reads leading metrics to pre-warm heavy JVM services ahead of traffic spikes, eliminating cold-start failures during peak campaigns.
+- A greenfield suite of distributed Go and Java microservices replacing a legacy monolith, with Kafka event-driven communication and strict consistency guarantees across service boundaries.
+- The real-time Kanban backend at Bitrix24: concurrent board updates, conflict resolution and live sync across multiple simultaneous clients.
+
+Most of my production work lives in private repositories.
+
+## Contact
+
+- **Email** — antonds@gmail.com
+- **LinkedIn** — https://d-it.ru/en/contact
