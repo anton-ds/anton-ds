@@ -24,6 +24,10 @@ Looking for senior individual-contributor backend roles. Not looking for a peopl
 
 Both are live, self-hosted and built end to end — backend, deployment and everything in between.
 
+### [Architecture trainer](https://archreview.dev/)
+
+Yes: it is a canvas for drawing boxes and arrows. The difference is what happens when you press Check. Claude reads the design against the requirements of the task — a vendor that answers in three to seven minutes, two hundred seats and five thousand buyers — scores it on five axes, and pins what is missing to the components it is missing from. Every box the requirements never asked for costs you.
+
 ### [Visual Algorithm Solver](https://algos.d-it.ru/)
 
 Practise algorithm problems by assembling logic out of blocks instead of writing code. Ten primitives cover the shape of most interview problems; the diagram lays itself out top to bottom, and branches merge back into the flow automatically.
