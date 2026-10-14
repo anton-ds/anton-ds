@@ -22,7 +22,7 @@ Looking for senior individual-contributor backend roles. Not looking for a peopl
 
 ## Side projects
 
-Both are live, self-hosted and built end to end — backend, deployment and everything in between.
+All are live, self-hosted and built end to end — backend, deployment and everything in between.
 
 ### [Architecture trainer](https://archreview.dev/)
 
