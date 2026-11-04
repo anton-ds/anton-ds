@@ -24,7 +24,7 @@ Looking for senior individual-contributor backend roles. Not looking for a peopl
 
 All are live, self-hosted and built end to end — backend, deployment and everything in between.
 
-### [ROOT: Node City] (https://rootnodecity.com/)
+### [ROOT: Node City](https://rootnodecity.com/)
 A browser game that teaches the real Linux terminal and the traces it leaves, from a **red-team** and a **blue-team** angle. Blue-team side: in story quests players dig answers out of logs, file ownership and timestamps. Red-team side: they work jobs on remote hosts under a detection timer, where every command counts and covering your tracks is part of the job. TypeScript end to end: a server-side shell with a per-player virtual file system, pipes, redirects, globs and man pages, streamed to the browser over WebSocket; Node.js and PostgreSQL on the back end. Progress is validated by the state the player produces, not by matching an expected string. Launching on web and Steam.
 
 ### [Architecture trainer](https://archreview.dev/)
