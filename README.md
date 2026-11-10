@@ -47,9 +47,13 @@ Most of my production work lives in private repositories.
 ## Stack
 
 **Languages** — Go, Java / Spring Boot · TypeScript / Node.js · Python (tooling, automation) · Rust, C (internal tools)
+
 **Infrastructure** — Kubernetes (Operator SDK, CRDs, client-go), Docker, AWS, Linux, Nginx, Jenkins, GitHub Actions
+
 **Data & messaging** — Apache Kafka, PostgreSQL, ClickHouse, Redis, Elasticsearch, Apache Ignite
+
 **Observability** — Prometheus, Grafana, OpenTelemetry
+
 **Practices** — Microservices, event-driven design, CQRS, DDD, REST and gRPC / Protobuf APIs, high availability & disaster recovery, on-call ownership
 
 ## Contact
