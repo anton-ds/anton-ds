@@ -18,22 +18,19 @@ AI isn't a threat to my craft — it's the strongest tool I've worked with, and 
 
 ## Projects
 
-### [ROOT: Node City](https://rootnodecity.com/)
+[![ROOT: Node City — learn the real Linux terminal, red team & blue team](assets/root-node-city.png)](https://rootnodecity.com/)
 
-A browser game that teaches the real Linux terminal and the traces it leaves, from a **red-team** and a **blue-team** angle.
+A browser game that teaches the real Linux terminal and the traces it leaves. **Blue team:** dig answers out of logs, file ownership and timestamps. **Red team:** work jobs on remote hosts under a detection timer, where covering your tracks is part of the job.
 
-**Blue-team side:** in story quests players dig answers out of logs, file ownership and timestamps.
-**Red-team side:** they work jobs on remote hosts under a detection timer, where every command counts and covering your tracks is part of the job.
-
-TypeScript end to end: a server-side shell with a per-player virtual file system, pipes, redirects, globs and man pages, streamed to the browser over WebSocket; Node.js and PostgreSQL on the back end. Progress is validated by the state the player produces, not by matching an expected string.
+TypeScript end to end — a server-side shell with a per-player virtual file system, pipes, redirects, globs and man pages, streamed over WebSocket; Node.js and PostgreSQL behind it. Progress is validated by the state you produce, not by matching an expected string.
 
 Launching on web and Steam.
 
-### [ARCH](https://challenge.archreview.dev/) — system design, one puzzle a day
+[![ARCH — system design, one puzzle a day](assets/arch.png)](https://challenge.archreview.dev/)
 
-Each level is a small business with a nasty problem: a bakery whose site dies every Saturday at 8:00, a customer charged three times. Drag the parts onto the board, open the shop, and the morning plays out — the system holds or it doesn't. There's more than one right answer, and every component the problem never asked for costs you.
+Each level is a small business with a nasty problem: a bakery whose site dies every Saturday at 8:00, a customer charged three times. Drag the parts onto the board, open the shop, and the morning plays out — the system holds or it doesn't. More than one right answer, and every component the problem never asked for costs you.
 
-Behind the game sits [a full design canvas](https://archreview.dev/). The difference from any other boxes-and-arrows tool is what happens when you press Check: an LLM reads the design against the requirements of the task — a vendor that answers in three to seven minutes, two hundred seats, five thousand buyers — scores it on five axes, and pins what's missing to the components it's missing from.
+Behind the game sits [a design canvas](https://archreview.dev/) where an LLM reads your architecture against the requirements, scores it on five axes, and pins what's missing to the components it's missing from.
 
 ## Things I've built at work
 
